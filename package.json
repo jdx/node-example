@@ -3,7 +3,7 @@
     "iojs": ">=2.3.0"
   },
   "dependencies": {
-    "koa": "^0.21.0",
+    "koa": "^0.20.0",
 
     "angular": "^1.3.16",
     "bluebird": "^2.9.27",
